@@ -95,7 +95,7 @@ settings = {
     "unsendMessage":"",
     "changeGroupPicture": [],
     "changePictureProfile": False,
-    "Respontag":"❌ஆণเฟีєՃุ๑இำ❌",
+    "Respontag":"❌Ճุ๑இำ❌",
     "ResponPM":"❌ஆণเฟีєՃุ๑இำ❌",
     "message":"❌ஆণเฟีєՃุ๑இำ❌",
     "comment":"❌ஆণเฟีєՃุ๑இำ❌",
